@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **lhal07/lhal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As an experienced professional with a strong background in software development, I have extensive experience in designing and implementing embedded systems, as well as developing backend applications. My technical expertise spans multiple programming languages, including C/C++, Python, and Qt, with a strong foundation in Linux. Additionally, I have experience with containerization using Kubernetes, and PostgreSQL databases.
+
+I hold a Master of Science degree in Informatics and Parallel Programming from the Paraná Federal University (UFPR), where I successfully completed my thesis on a parallel implementation of an image processing algorithm using CUDA. I have also expanded my skill set by completing a Big Data course on Udemy.
+
+Throughout my career, I have developed a broad range of skills, including feature development, system maintenance, firmware development, embedded system architecture, software library implementation, and IoT solution development. My experience with Linux dates back to my graduation, and I have consistently applied my knowledge in various professional settings.
+
+Furthermore, I have worked with image processing libraries such as OpenCV and ITK, and have a solid understanding of parallel programming concepts. In addition to my technical expertise, I have also developed my skills as an educator, having written content and recorded online classes for a local university (UNINTER).
+
+As a professional, I am driven by a passion for challenges and a commitment to delivering high-quality results. I am a team player who is dedicated to contributing my skills and expertise to achieve common goals. On a personal level, I am a thoughtful and reserved individual who values organization and effective communication. I am a friendly and approachable person who is comfortable working in a collaborative environment.
