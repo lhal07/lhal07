@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Luis Lourenço! 👋
 <!--
 **lhal07/lhal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
